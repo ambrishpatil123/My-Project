@@ -4,8 +4,7 @@ int main()
 
 {
    printf("Hello wolrd")
-   printf("Hello bangalore")
-   printf("Hello karnataka")
+   printf("this is devops traning")
    return 0;
 
 }
